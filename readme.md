@@ -16,7 +16,7 @@
    
    **python TikTok.py u tiktok_username**
    
-   Ex:  python TikTok.py u jannat_zubair29 
+   Ex:  `python TikTok.py u jannat_zubair29` 
 	[This will download videos from @jannat_zubair29 TikTok account]
    
 2. For Downloading videos by **hashtag** type following command:
