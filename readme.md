@@ -1,6 +1,7 @@
 # Pre-Requits
 1. Python3
 2. pip must be installed
+3. Google Drive Api must be configured and download json package and name it client_secrets.json
 
 ### After Installing these run following commands in terminal:
 
