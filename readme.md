@@ -23,5 +23,5 @@
    
    **python TikTok.py h hashtag**
 
-   Ex: python TikTok.py h cat
+   Ex: `python TikTok.py h cat`
        [This will download videos from hastag "cat"]
